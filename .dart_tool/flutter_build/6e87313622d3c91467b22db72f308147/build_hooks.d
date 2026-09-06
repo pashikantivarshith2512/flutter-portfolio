@@ -1,0 +1,1 @@
+ C:\\Users\\pashi\\.gemini\\antigravity\\scratch\\ui_flutter\\.dart_tool\\flutter_build\\6e87313622d3c91467b22db72f308147\\build_hooks_result.json: 
