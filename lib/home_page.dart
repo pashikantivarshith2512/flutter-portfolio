@@ -47,13 +47,16 @@ class HomePage extends StatelessWidget {
                     Stack(
                       alignment: Alignment.bottomRight,
                       children: [
-                        const CircleAvatar(
+                        CircleAvatar(
                           radius: 65,
-                          backgroundColor: Colors.indigoAccent,
+                          backgroundColor: Colors.indigo.shade200,
                           child: CircleAvatar(
                             radius: 60,
-                            backgroundImage: NetworkImage(
-                              'https://raw.githubusercontent.com/pashikantivarshith2512/flutter-portfolio/main/web/profile.jpg',
+                            backgroundColor: Colors.indigo.shade50,
+                            child: const Icon(
+                              Icons.person,
+                              size: 65,
+                              color: Colors.indigo,
                             ),
                           ),
                         ),
