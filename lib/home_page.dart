@@ -53,7 +53,7 @@ class HomePage extends StatelessWidget {
                           child: CircleAvatar(
                             radius: 60,
                             backgroundImage: NetworkImage(
-                              'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80',
+                              'https://raw.githubusercontent.com/pashikantivarshith2512/flutter-portfolio/main/web/profile.jpg',
                             ),
                           ),
                         ),
